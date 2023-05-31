@@ -1,0 +1,19 @@
+{
+  "name": "sistemas-erp-administracao-condominial",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/jvcaversan/sistemas-erp-administracao-condominial",
+  "author": "Joao Vitor Caversan <joaovitorcaversan@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+
+
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+
+  
+}
